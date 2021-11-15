@@ -1,0 +1,426 @@
+[
+    [
+        {
+        "Monday": {
+            "TR1": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR2": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR3": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR4": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR5": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR6": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "CISCO": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "SOFTWARE": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            }
+        },
+        "Tuesday": {
+            "TR1": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR2": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR3": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR4": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR5": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR6": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "CISCO": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "SOFTWARE": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            }
+        },
+        "Wednesday": {
+            "TR1": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR2": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR3": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR4": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR5": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR6": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "CISCO": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "SOFTWARE": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            }
+        },
+        "Thursday": {
+            "TR1": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR2": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR3": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR4": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR5": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR6": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "CISCO": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "SOFTWARE": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            }
+        },
+        "Friday": {
+            "TR1": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR2": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR3": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR4": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR5": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "TR6": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "CISCO": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            },
+            "SOFTWARE": {
+                "08:00" : ["Class","Module"],
+                "10:00" : ["Class","Module"],
+                "12:00" : ["Class","Module"],
+                "14:00" : ["Class","Module"],
+                "16:00" : ["Class","Module"],
+                "18:00" : ["Class","Module"],
+                "20:00" : ["Class","Module"]
+            }
+        }
+        },
+        {
+            "1": ["DA12","CTT0401"],
+            "2": ["Class","Instructor","Module"]
+        }
+    ],
+    [
+        [ "CM21" ],
+
+
+        [ [ "DE11", "CTT06101", ["Array"] ] ],
+
+
+        [
+          "DA13",
+          "CTT06101",
+          [ "Introduction to programming", "Diploma 3", 1, "IT", ["Array"] ]
+        ],
+
+
+        
+        [
+          "CM20",
+          "CTT04104",
+          [ "Entrepreneurship", "Certificate", 0, "IT", ["Array"], ["Array"] ]
+        ],
+        [
+          "DA13",
+          "CTT06103",
+          [ "Mathematics", "Diploma 3", 0, "IT", ["Array"] ]
+        ],
+        [
+          "DA12",
+          "CTT06203",
+          [ "Project management", "Diploma 4", 0, "IT", ["Array"] ]
+        ],
+        [
+          "CM20",
+          "CTT04105",
+          [ "PC and networking 1", "Certificate", 0, "IT", ["Array"], ["Array"] ]
+        ],
+        [
+          "DA12",
+          "CTT06205",
+          [ "Connecting network", "Diploma 4", 1, "IT", ["Array"] ]
+        ],
+        [
+          "DA13",
+          "CTT06101",
+          [ "Introduction to programming", "Diploma 3", 1, "IT", ["Array"] ]
+        ]
+      ]
+]

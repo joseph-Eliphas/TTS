@@ -1,0 +1,41 @@
+# Certificate 1:
+    CTT0401:
+        --Mathematics
+        --Certificate
+        0
+        courses[0]
+
+    CTT0402: ["Entrepreneurship", "Certificate", 0, courses[0]],
+    CTT0403: ["PC and networking", "Certificate", 1, courses[0]],
+    CTT0404: ["Introduction to web developement", "Certificate", 1, courses[0]],
+    CTT0405: ["Introduction to programming", "Certificate", 1, courses[0]],
+# Certificate 2:
+    "CTT0401": ["Mathematics", "Certificate", 0, courses[0]],
+    CTT0402: ["Entrepreneurship", "Certificate", 0, courses[0]],
+    CTT0403: ["PC and networking", "Certificate", 1, courses[0]],
+    CTT0404: ["Introduction to web developement", "Certificate", 1, courses[0]],
+    CTT0405: ["Introduction to programming", "Certificate", 1, courses[0]],
+# Diploma 1:
+    "CTT0401": ["Mathematics", "Certificate", 0, courses[0]],
+    CTT0402: ["Entrepreneurship", "Certificate", 0, courses[0]],
+    CTT0403: ["PC and networking", "Certificate", 1, courses[0]],
+    CTT0404: ["Introduction to web developement", "Certificate", 1, courses[0]],
+    CTT0405: ["Introduction to programming", "Certificate", 1, courses[0]],
+# Diploma 2:
+    "CTT0401": ["Mathematics", "Certificate", 0, courses[0]],
+    CTT0402: ["Entrepreneurship", "Certificate", 0, courses[0]],
+    CTT0403: ["PC and networking", "Certificate", 1, courses[0]],
+    CTT0404: ["Introduction to web developement", "Certificate", 1, courses[0]],
+    CTT0405: ["Introduction to programming", "Certificate", 1, courses[0]],
+# Diploma 3:
+    "CTT0401": ["Mathematics", "Certificate", 0, courses[0]],
+    CTT0402: ["Entrepreneurship", "Certificate", 0, courses[0]],
+    CTT0403: ["PC and networking", "Certificate", 1, courses[0]],
+    CTT0404: ["Introduction to web developement", "Certificate", 1, courses[0]],
+    CTT0405: ["Introduction to programming", "Certificate", 1, courses[0]],
+# Diploma 4:
+    "CTT0401": ["Mathematics", "Certificate", 0, courses[0]],
+    CTT0402: ["Entrepreneurship", "Certificate", 0, courses[0]],
+    CTT0403: ["PC and networking", "Certificate", 1, courses[0]],
+    CTT0404: ["Introduction to web developement", "Certificate", 1, courses[0]],
+    CTT0405: ["Introduction to programming", "Certificate", 1, courses[0]],
